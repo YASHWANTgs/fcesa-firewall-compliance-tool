@@ -10,7 +10,7 @@ This project is a cross platform python tool that can work on both linux and win
 - Python
 
 # Project Context
-- This tool was developed in the context of my MSc Cybersecurity Final Year Project at University Of Hertfordshire which includes testing, evaluation, demostration of woring model and documentation with academic and industry ecpectations.
+- This tool was developed in the context of my MSc Cybersecurity Final Year Project at University Of Hertfordshire which includes testing, evaluation, demostration of woring model and documentation with academic and industry exceptations.
 
 # How to use
 - Extract the firewall rules and put that extracted JSON file in gui  then click generate report or on real-time monitoring if needed. real-time monitoring is automated and starts working as soon as the file is dropped.
