@@ -1,0 +1,75 @@
+2025-03-25 23:54:25,687 - INFO - Starting compliance check from GUI...
+2025-03-25 23:54:25,780 - INFO - Parsed Linux rules and evaluated compliance.
+2025-03-25 23:54:25,786 - INFO - PDF report generated: firewall_compliance_report_linux_20250325_235425.pdf
+2025-03-25 23:54:27,053 - INFO - Compliance check completed from GUI.
+2025-03-26 21:44:48,798 - INFO - Starting compliance check from GUI...
+2025-03-26 21:44:53,382 - INFO - Starting compliance check from GUI...
+2025-03-26 21:45:21,614 - INFO - Starting compliance check from GUI...
+2025-03-26 21:45:21,645 - INFO - Parsed Windows rules and evaluated compliance.
+2025-03-26 21:45:21,652 - INFO - PDF report generated: firewall_compliance_report_windows_20250326_214521.pdf
+2025-03-26 21:46:16,825 - INFO - Compliance check completed from GUI.
+2025-04-11 19:34:41,186 - INFO - Starting compliance check from GUI...
+2025-04-11 19:34:48,363 - INFO - Starting compliance check from GUI...
+2025-04-11 19:34:54,006 - INFO - Starting compliance check from GUI...
+2025-04-11 19:34:54,034 - INFO - Parsed Windows rules and evaluated compliance.
+2025-04-11 19:34:54,044 - INFO - PDF report generated: firewall_compliance_report_windows_20250411_193454.pdf
+2025-04-11 19:34:57,875 - INFO - Compliance check completed from GUI.
+2025-04-11 19:42:37,094 - INFO - Starting compliance check from GUI...
+2025-04-11 19:42:37,116 - INFO - Error: Expecting ',' delimiter: line 2 column 1 (char 36)
+2025-04-11 19:42:52,056 - INFO - Starting compliance check from GUI...
+2025-04-11 19:42:52,056 - INFO - Error: Expecting ',' delimiter: line 2 column 1 (char 36)
+2025-04-11 19:50:46,973 - INFO - Starting compliance check from GUI...
+2025-04-11 19:50:46,974 - INFO - Invalid JSON format detected in Windows rule file.
+2025-04-11 19:59:03,820 - INFO - Starting compliance check from GUI...
+2025-04-11 19:59:03,841 - INFO - Parsed Windows rules and evaluated compliance.
+2025-04-11 19:59:03,845 - INFO - PDF report generated: firewall_compliance_report_windows_20250411_195903.pdf
+2025-04-11 19:59:47,008 - INFO - Compliance check completed from GUI.
+2025-04-11 20:00:12,963 - INFO - Starting compliance check from GUI...
+2025-04-11 20:00:12,964 - INFO - Invalid JSON format detected in Windows rule file.
+2025-04-13 01:17:44,217 - INFO - Real-time monitoring check executed.
+2025-04-16 22:22:41,727 - INFO - Parsed Windows rules.
+2025-04-16 22:22:41,734 - INFO - Generated PDF report: firewall_compliance_report_windows_20250416_222241.pdf
+2025-04-16 22:49:22,788 - INFO - Parsed Windows rules.
+2025-04-16 22:49:22,790 - INFO - Generated PDF report: firewall_compliance_report_windows_20250416_224922.pdf
+2025-04-16 22:56:31,438 - INFO - Parsed Windows rules.
+2025-04-16 22:56:31,441 - INFO - Generated PDF report: firewall_compliance_report_windows_20250416_225631.pdf
+2025-04-18 10:55:07,239 - INFO - Parsed Windows rules.
+2025-04-18 10:55:07,245 - INFO - Generated PDF report: firewall_compliance_report_windows_20250418_105507.pdf
+2025-04-19 00:57:14,589 - INFO - Compliance Check Failed: Invalid JSON file: Expecting ',' delimiter: line 6 column 3 (char 98)
+2025-04-19 10:05:35,325 - INFO - Parsed Windows rules.
+2025-04-19 10:05:35,347 - INFO - Generated PDF report: firewall_compliance_report_windows_20250419_100535.pdf
+2025-04-19 10:05:40,496 - INFO - Parsed Windows rules.
+2025-04-19 10:05:40,499 - INFO - Generated PDF report: firewall_compliance_report_windows_20250419_100540.pdf
+2025-04-19 10:05:44,894 - INFO - Real-time monitoring check executed.
+2025-04-20 09:30:34,340 - INFO - Compliance Check Failed: Invalid JSON file: Expecting value: line 1 column 1 (char 0)
+2025-04-21 01:28:04,503 - INFO - Compliance Check Failed: Invalid JSON file: Expecting value: line 1 column 1 (char 0)
+2025-04-21 01:33:53,260 - INFO - Compliance Check Failed: Invalid JSON file: Expecting value: line 1 column 1 (char 0)
+2025-04-21 01:34:18,706 - INFO - Compliance Check Failed: Invalid JSON file: Expecting value: line 1 column 1 (char 0)
+2025-04-21 01:34:55,588 - INFO - Parsed Windows rules.
+2025-04-21 01:34:55,592 - INFO - Generated PDF report: firewall_compliance_report_windows_20250421_013455.pdf
+2025-04-21 01:42:58,086 - INFO - Parsed Windows rules.
+2025-04-21 01:42:58,090 - INFO - Generated PDF report: firewall_compliance_report_windows_20250421_014258.pdf
+2025-04-21 02:12:15,625 - INFO - Compliance Check Failed: Invalid JSON file: Expecting value: line 1 column 1 (char 0)
+2025-04-21 13:27:07,595 - INFO - Compliance Check Failed: Invalid JSON file: Expecting value: line 1 column 1 (char 0)
+2025-04-21 13:27:50,398 - INFO - Parsed Windows rules.
+2025-04-21 13:27:50,405 - INFO - Generated PDF report: firewall_compliance_report_windows_20250421_132750.pdf
+2025-04-22 06:18:21,116 - INFO - Parsed Windows rules.
+2025-04-22 06:18:21,123 - INFO - Generated PDF report: firewall_compliance_report_windows_20250422_061821.pdf
+2025-04-22 06:18:23,585 - INFO - Real-time monitoring check executed.
+2025-04-22 09:59:15,365 - INFO - Parsed Windows rules.
+2025-04-22 09:59:15,367 - INFO - Generated PDF report: firewall_compliance_report_windows_20250422_095915.pdf
+2025-04-24 13:29:15,012 - INFO - Parsed Windows rules.
+2025-04-24 13:29:15,030 - INFO - Generated PDF report: firewall_compliance_report_windows_20250424_132915.pdf
+2025-04-24 13:31:29,156 - INFO - Parsed Windows rules.
+2025-04-24 13:31:29,158 - INFO - Generated PDF report: firewall_compliance_report_windows_20250424_133129.pdf
+2025-04-24 13:44:24,029 - INFO - Parsed Windows rules.
+2025-04-24 13:44:24,032 - INFO - Generated PDF report: firewall_compliance_report_windows_20250424_134424.pdf
+2025-04-25 08:51:11,436 - INFO - Parsed Windows rules.
+2025-04-25 08:51:11,443 - INFO - Generated PDF report: firewall_compliance_report_windows_20250425_085111.pdf
+2025-04-25 08:51:17,670 - INFO - Parsed Windows rules.
+2025-04-25 08:51:17,673 - INFO - Generated PDF report: firewall_compliance_report_windows_20250425_085117.pdf
+2025-04-25 08:51:23,672 - INFO - Real-time monitoring check executed.
+2025-04-25 08:52:23,675 - INFO - Compliance Check Failed: Invalid JSON file: Extra data: line 17 column 1 (char 281)
+2025-04-25 08:52:31,890 - INFO - Real-time monitoring check executed.
+2025-04-25 08:53:31,892 - INFO - Compliance Check Failed: Invalid JSON file: Extra data: line 17 column 1 (char 281)
+2025-04-25 08:53:34,092 - INFO - Real-time monitoring check executed.

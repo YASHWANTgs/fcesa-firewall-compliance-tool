@@ -1,0 +1,719 @@
+Found 239 non-compliant rule(s):
+
+Rule: Network Discovery (UPnP-Out)
+ - Rule is not enabled
+
+Rule: Remote Assistance (TCP-Out)
+ - Rule is not enabled
+
+Rule: Remote Event Log Management (NP-In)
+ - Rule is not enabled
+
+Rule: Remote Scheduled Tasks Management (RPC)
+ - Rule is not enabled
+
+Rule: Distributed Transaction Coordinator (TCP-Out)
+ - Rule is not enabled
+
+Rule: Routing and Remote Access (L2TP-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Spooler Service - RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Spooler Service - RPC)
+ - Rule is not enabled
+
+Rule: Windows Collaboration Computer Name Registration Service (PNRP-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (NB-Name-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (NB-Datagram-Out)
+ - Rule is not enabled
+
+Rule: Windows Peer to Peer Collaboration Foundation (WSD-In)
+ - Rule is not enabled
+
+Rule: Remote Event Log Management (RPC)
+ - Rule is not enabled
+
+Rule: Network Discovery (LLMNR-UDP-In)
+ - Rule is not enabled
+
+Rule: Remote Event Log Management (NP-In)
+ - Rule is not enabled
+
+Rule: SNMP Trap Service (UDP In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (Echo Request - ICMPv6-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Session-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Datagram-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Spooler Service - RPC)
+ - Rule is not enabled
+
+Rule: Routing and Remote Access (GRE-In)
+ - Rule is not enabled
+
+Rule: TPM Virtual Smart Card Management (DCOM-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Echo Request - ICMPv4-Out)
+ - Rule is not enabled
+
+Rule: Distributed Transaction Coordinator (RPC)
+ - Rule is not enabled
+
+Rule: Network Discovery for Teredo (SSDP-In)
+ - Rule is not enabled
+
+Rule: iSCSI Service (TCP-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (UPnPHost-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Name-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (SMB-Out)
+ - Rule is not enabled
+
+Rule: Distributed Transaction Coordinator (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Remote Assistance (PNRP-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Echo Request - ICMPv4-Out)
+ - Rule is not enabled
+
+Rule: Remote Event Monitor (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (SMB-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (SMB-In)
+ - Rule is not enabled
+
+Rule: Remote Volume Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Remote Event Log Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Core Networking Diagnostics - ICMP Echo Request (ICMPv6-Out)
+ - Rule is not enabled
+
+Rule: Remote Event Monitor (RPC)
+ - Rule is not enabled
+
+Rule: SNMP Trap Service (UDP In)
+ - Rule is not enabled
+
+Rule: Windows Management Instrumentation (ASync-In)
+ - Rule is not enabled
+
+Rule: Core Networking Diagnostics - ICMP Echo Request (ICMPv4-Out)
+ - Rule is not enabled
+
+Rule: Windows Management Instrumentation (WMI-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Datagram-In)
+ - Rule is not enabled
+
+Rule: Windows Defender Firewall Remote Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Performance Logs and Alerts (TCP-In)
+ - Rule is not enabled
+
+Rule: Windows Remote Management (HTTP-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Name-In)
+ - Rule is not enabled
+
+Rule: Distributed Transaction Coordinator (TCP-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (NB-Name-In)
+ - Rule is not enabled
+
+Rule: Virtual Machine Monitoring (RPC)
+ - Rule is not enabled
+
+Rule: iSCSI Service (TCP-In)
+ - Rule is not enabled
+
+Rule: Remote Assistance (PNRP-In)
+ - Rule is not enabled
+
+Rule: Routing and Remote Access (PPTP-In)
+ - Rule is not enabled
+
+Rule: Remote Volume Management - Virtual Disk Service (RPC)
+ - Rule is not enabled
+
+Rule: TPM Virtual Smart Card Management (TCP-In)
+ - Rule is not enabled
+
+Rule: Windows Management Instrumentation (WMI-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (NB-Datagram-In)
+ - Rule is not enabled
+
+Rule: Virtual Machine Monitoring (DCOM-In)
+ - Rule is not enabled
+
+Rule: Windows Management Instrumentation (DCOM-In)
+ - Rule is not enabled
+
+Rule: Windows Collaboration Computer Name Registration Service (SSDP-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD EventsSecure-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Session-Out)
+ - Rule is not enabled
+
+Rule: Remote Scheduled Tasks Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (LLMNR-UDP-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (UPnP-Out)
+ - Rule is not enabled
+
+Rule: Windows Peer to Peer Collaboration Foundation (PNRP-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (LLMNR-UDP-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD Events-In)
+ - Rule is not enabled
+
+Rule: Remote Service Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Windows Management Instrumentation (ASync-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD Events-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (LLMNR-UDP-Out)
+ - Rule is not enabled
+
+Rule: Virtual Machine Monitoring (NB-Session-In)
+ - Rule is not enabled
+
+Rule: Windows Defender Firewall Remote Management (RPC)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Spooler Service - RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Echo Request - ICMPv6-Out)
+ - Rule is not enabled
+
+Rule: Windows Peer to Peer Collaboration Foundation (TCP-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD EventsSecure-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (SSDP-In)
+ - Rule is not enabled
+
+Rule: Remote Service Management (RPC)
+ - Rule is not enabled
+
+Rule: Remote Service Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Windows Remote Management - Compatibility Mode (HTTP-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Name-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (Spooler Service - RPC)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD-In)
+ - Rule is not enabled
+
+Rule: Windows Peer to Peer Collaboration Foundation (WSD-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Session-In)
+ - Rule is not enabled
+
+Rule: iSCSI Service (TCP-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Echo Request - ICMPv4-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (NB-Datagram-In)
+ - Rule is not enabled
+
+Rule: Remote Service Management (NP-In)
+ - Rule is not enabled
+
+Rule: Remote Service Management (RPC)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (SMB-In)
+ - Rule is not enabled
+
+Rule: Windows Collaboration Computer Name Registration Service (PNRP-Out)
+ - Rule is not enabled
+
+Rule: Distributed Transaction Coordinator (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Network Discovery (UPnP-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (SMB-Out)
+ - Rule is not enabled
+
+Rule: Windows Defender Firewall Remote Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Remote Service Management (NP-In)
+ - Rule is not enabled
+
+Rule: Windows Peer to Peer Collaboration Foundation (SSDP-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (SMB-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (NB-Name-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Echo Request - ICMPv6-Out)
+ - Rule is not enabled
+
+Rule: Core Networking Diagnostics - ICMP Echo Request (ICMPv6-In)
+ - Rule is not enabled
+
+Rule: Remote Volume Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Remote Volume Management - Virtual Disk Service Loader (RPC)
+ - Rule is not enabled
+
+Rule: TPM Virtual Smart Card Management (DCOM-In)
+ - Rule is not enabled
+
+Rule: TPM Virtual Smart Card Management (TCP-In)
+ - Rule is not enabled
+
+Rule: TPM Virtual Smart Card Management (TCP-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD EventsSecure-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery for Teredo (UPnP-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (Pub WSD-Out)
+ - Rule is not enabled
+
+Rule: Netlogon Service (NP-In)
+ - Rule is not enabled
+
+Rule: Virtual Machine Monitoring (Echo Request - ICMPv4-In)
+ - Rule is not enabled
+
+Rule: Remote Scheduled Tasks Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Remote Assistance (TCP-In)
+ - Rule is not enabled
+
+Rule: Virtual Machine Monitoring (Echo Request - ICMPv6-In)
+ - Rule is not enabled
+
+Rule: TPM Virtual Smart Card Management (TCP-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (Echo Request - ICMPv4-In)
+ - Rule is not enabled
+
+Rule: Routing and Remote Access (L2TP-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD Events-Out)
+ - Rule is not enabled
+
+Rule: Windows Defender Firewall Remote Management (RPC)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Datagram-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD EventsSecure-In)
+ - Rule is not enabled
+
+Rule: Remote Scheduled Tasks Management (RPC)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Session-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Echo Request - ICMPv6-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (SSDP-Out)
+ - Rule is not enabled
+
+Rule: Core Networking Diagnostics - ICMP Echo Request (ICMPv4-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (NB-Datagram-Out)
+ - Rule is not enabled
+
+Rule: Performance Logs and Alerts (DCOM-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (Spooler Service - RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (Echo Request - ICMPv4-Out)
+ - Rule is not enabled
+
+Rule: Routing and Remote Access (PPTP-Out)
+ - Rule is not enabled
+
+Rule: Performance Logs and Alerts (TCP-In)
+ - Rule is not enabled
+
+Rule: Windows Remote Management (HTTP-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD Events-In)
+ - Rule is not enabled
+
+Rule: Windows Peer to Peer Collaboration Foundation (PNRP-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Echo Request - ICMPv6-In)
+ - Rule is not enabled
+
+Rule: Windows Collaboration Computer Name Registration Service (SSDP-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (UPnP-In)
+ - Rule is not enabled
+
+Rule: Performance Logs and Alerts (DCOM-In)
+ - Rule is not enabled
+
+Rule: Remote Event Log Management (RPC-EPMAP)
+ - Rule is not enabled
+
+Rule: Core Networking Diagnostics - ICMP Echo Request (ICMPv6-Out)
+ - Rule is not enabled
+
+Rule: Windows Management Instrumentation (DCOM-In)
+ - Rule is not enabled
+
+Rule: Distributed Transaction Coordinator (RPC)
+ - Rule is not enabled
+
+Rule: iSCSI Service (TCP-Out)
+ - Rule is not enabled
+
+Rule: Network Discovery (Pub-WSD-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Name-Out)
+ - Rule is not enabled
+
+Rule: Windows Management Instrumentation (WMI-In)
+ - Rule is not enabled
+
+Rule: Remote Volume Management - Virtual Disk Service Loader (RPC)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (NB-Datagram-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Echo Request - ICMPv4-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (WSD-In)
+ - Rule is not enabled
+
+Rule: Remote Event Log Management (RPC)
+ - Rule is not enabled
+
+Rule: Windows Peer to Peer Collaboration Foundation (SSDP-In)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (LLMNR-UDP-In)
+ - Rule is not enabled
+
+Rule: Core Networking Diagnostics - ICMP Echo Request (ICMPv4-In)
+ - Rule is not enabled
+
+Rule: Secure Socket Tunneling Protocol (SSTP-In)
+ - Rule is not enabled
+
+Rule: Distributed Transaction Coordinator (TCP-In)
+ - Rule is not enabled
+
+Rule: Remote Volume Management - Virtual Disk Service (RPC)
+ - Rule is not enabled
+
+Rule: Windows Management Instrumentation (WMI-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (LLMNR-UDP-Out)
+ - Rule is not enabled
+
+Rule: Netlogon Service Authz (RPC)
+ - Rule is not enabled
+
+Rule: Windows Peer to Peer Collaboration Foundation (TCP-In)
+ - Rule is not enabled
+
+Rule: Core Networking Diagnostics - ICMP Echo Request (ICMPv4-In)
+ - Rule is not enabled
+
+Rule: Windows Remote Management - Compatibility Mode (HTTP-In)
+ - Rule is not enabled
+
+Rule: Routing and Remote Access (GRE-Out)
+ - Rule is not enabled
+
+Rule: File and Printer Sharing (Restrictive) (Echo Request - ICMPv6-In)
+ - Rule is not enabled
+
+Rule: Distributed Transaction Coordinator (TCP-In)
+ - Rule is not enabled
+
+Rule: Network Discovery (NB-Name-Out)
+ - Rule is not enabled
+
+Rule: Core Networking Diagnostics - ICMP Echo Request (ICMPv6-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (Streaming-TCP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player (UDP-In)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - HTTP Streaming (TCP-In)
+ - Rule is not enabled
+
+Rule: Wireless Portable Devices (TCP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - qWave (UDP-In)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - Device Provisioning (TCP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (qWave-TCP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (qWave-UDP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (UPnP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (Streaming-UDP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (UPnPHost-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (UDP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (TCP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (qWave-TCP-In)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - WMDRM-ND/RTP/RTCP (UDP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player x86 (UDP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (UDP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (TCP-In)
+ - Rule is not enabled
+
+Rule: Wireless Portable Devices (TCP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (Streaming-UDP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (HTTP-Streaming-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (Streaming-UDP-In)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - RTSP (TCP-In)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - qWave (UDP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - qWave (TCP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - XSP (TCP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (SSDP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (qWave-TCP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (Streaming-TCP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (UPnP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (SSDP-In)
+ - Rule is not enabled
+
+Rule: Wireless Portable Devices (UPnP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (HTTP-Streaming-Out)
+ - Rule is not enabled
+
+Rule: Wireless Portable Devices (UPnP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (UDP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (HTTP-Streaming-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (qWave-UDP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - SSDP (UDP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (qWave-UDP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (qWave-TCP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - UPnP (TCP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - Service (TCP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (TCP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - Device Validation (TCP-Out)
+ - Rule is not enabled
+
+Rule: Wireless Portable Devices (SSDP-In)
+ - Rule is not enabled
+
+Rule: Wireless Portable Devices (SSDP-Out)
+ - Rule is not enabled
+
+Rule: Wireless Portable Devices (UPnPHost-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - RTSP (TCP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - WMDRM-ND/RTP/RTCP (UDP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - Media Streaming (UDP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (UDP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - Media Streaming (TCP-In)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - SSDP (UDP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - Media Streaming (TCP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player x86 (UDP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player x86 (TCP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (Streaming-UDP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (HTTP-Streaming-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player (UDP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player (TCP-Out)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (qWave-UDP-In)
+ - Rule is not enabled
+
+Rule: Windows Media Player Network Sharing Service (TCP-Out)
+ - Rule is not enabled
+
+Rule: Media Center Extenders - qWave (TCP-In)
+ - Rule is not enabled
+
+Rule: Inbound Rule for Remote Shutdown (TCP-In)
+ - Rule is not enabled
+
+Rule: Inbound Rule for Remote Shutdown (RPC-EP-In)
+ - Rule is not enabled
+
